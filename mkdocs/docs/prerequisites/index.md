@@ -1,0 +1,3 @@
+# Pre-requisites
+
+[MsLearn](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-architect-design-prerequisites/)

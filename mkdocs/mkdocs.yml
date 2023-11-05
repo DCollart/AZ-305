@@ -1,0 +1,19 @@
+site_name: AZ-305
+nav:
+    - Home: index.md
+    - Study notes: 
+       - Pre-requisites: 
+          - prerequisites/index.md
+          - Core architectural components: prerequisites/core-architectural-components.md
+       - Design identity, governance, and monitoring solutions:
+          - Design identity, governance, and monitoring solutions/index.md
+       - Design business continuity solutions:
+          - Design business continuity solutions/index.md
+       - Design data storage solutions:
+          - Design data storage solutions/index.md
+       - Design infrastructure solutions:
+          - Design infrastructure solutions/index.md
+       - Azure well-architected framework: 
+          - Azure well-architected framework/index.md
+       - Microsoft cloud adoption framework for Azure: 
+          - Microsoft cloud adoption framework for Azure/index.md

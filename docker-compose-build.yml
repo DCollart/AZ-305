@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  mkdocs:
+    container_name: mkdocs
+    image: polinux/mkdocs:1.1.2
+    environment:
+      DOCS_DIRECTORY: '/mkdocs'
+    volumes:
+        - ./mkdocs:/mkdocs
+    command: sh -c "cd ./mkdocs && mkdocs build"
