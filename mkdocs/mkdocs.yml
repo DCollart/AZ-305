@@ -3,16 +3,26 @@ nav:
     - Home: index.md
     - Study notes: 
        - Pre-requisites: 
-          - prerequisites/index.md
-          - Core architectural components: prerequisites/core-architectural-components.md
+          - Home: Prerequisites/index.md
+          - Core architectural components: Prerequisites/core-architectural-components.md
+          - Security: Prerequisites/security.md       
        - Design identity, governance, and monitoring solutions:
-          - Design identity, governance, and monitoring solutions/index.md
+          - Home: Design identity, governance, and monitoring solutions/index.md
+          - Governance: Design identity, governance, and monitoring solutions/governance.md
+          - Authentication & authorization: Design identity, governance, and monitoring solutions/authentication and authorization.md
+          - Log & monitor: Design identity, governance, and monitoring solutions/log and monitor.md
        - Design business continuity solutions:
-          - Design business continuity solutions/index.md
+          - Home: Design business continuity solutions/index.md
+          - High availability - Disaster recovery: Design business continuity solutions/HADR.md
+          - Backup: Design business continuity solutions/backup.md
        - Design data storage solutions:
-          - Design data storage solutions/index.md
+          - Home: Design data storage solutions/index.md
+          - Relational data: Design data storage solutions/relational-data.md
+          - Non-relational data: Design data storage solutions/non-relational-data.md
+          - Data integration: Design data storage solutions/data-integration.md 
        - Design infrastructure solutions:
-          - Design infrastructure solutions/index.md
+          - Home: Design infrastructure solutions/index.md
+          - Compute services: Design infrastructure solutions/compute.md
        - Azure well-architected framework: 
           - Azure well-architected framework/index.md
        - Microsoft cloud adoption framework for Azure: 
